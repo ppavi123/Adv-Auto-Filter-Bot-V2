@@ -15,7 +15,7 @@ APP_ID = "15671595"
 
 API_HASH = "bb8f36f9c39a24c7f8b2acbc7ea8c60a"
 
-BOT_TOKEN = '5559957614:AAEjYLf7h-227OigZaT1SFCq1zK3V4J8PG8"
+BOT_TOKEN = "5559957614:AAEjYLf7h-227OigZaT1SFCq1zK3V4J8PG8"
 
 DB_URI = "mongodb+srv://Dave:Dave@cluster0.nvjotuh.mongodb.net/?retryWrites=true&w=majority"
 
